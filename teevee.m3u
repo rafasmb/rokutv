@@ -1,0 +1,183 @@
+#EXTM3U
+#EXTINF:-1, group-title="ASIAN TV", ANIPLUS
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:-1, group-title="ASIAN TV", ANIMAX
+http://45.126.83.51/dr9445/h/h18/01.m3u8
+#EXTINF:-1, group-title="ASIAN TV", AXN
+http://210.210.155.35/session/c7b7f412-514c-11e9-a349-c81f66f89318/uq2663/h/h141/index.m3u8
+#EXTINF:-1, group-title="ASIAN TV", DAVINCI LEARNING
+http://45.126.83.51/uq2663/h/h01/index.m3u8
+#EXTINF:-1, group-title="ASIAN TV", SONY ONE
+http://45.126.83.51/uq2663/h/h13/01.m3u8
+#EXTINF:-1, group-title="ASIAN TV", K-DRAMA
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
+#EXTINF:-1, group-title="ASIAN TV", K PLUS
+http://45.126.83.51/uq2663/h/h08/01.m3u8
+#EXTINF:-1, group-title="ASIAN TV", SONY CHANNEL
+http://45.126.83.51/uq2663/h/h06/01.m3u8
+#EXTINF:-1, group-title="ASIAN TV", KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+#EXTINF:-1, group-title="ASIAN TV", BLU ANT EXTREME
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+#EXTINF:-1, group-title="ASIAN TV", CINEMA WORLD
+http://45.126.83.51/uq2663/h/h04/index2.m3u8
+#EXTINF:-1, group-title="ASIAN TV", THRILL
+http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
+#EXTINF:-1, group-title="ASIAN TV", HITS
+http://45.126.83.51/uq2663/h/h37/01.m3u8
+#EXTINF:-1, group-title="ASIAN TV", DIVA
+http://45.126.83.51/uq2663/h/h11/index2.m3u8
+#EXTINF:-1, group-title="ASIAN TV", E!
+http://45.126.83.51/uq2663/h/h10/index2.m3u8
+#EXTINF:-1, group-title="ASIAN TV", AL JAZEERA NEWS
+http://45.126.83.51/qwr9ew/s/s17/index2.m3u8
+#EXTINF:-1, group-title="ASIAN TV", CHANNEL NEWS ASIA
+http://45.126.83.51/uq2663/h/h29/index2.m3u8
+#EXTINF:-1, group-title="ASIAN TV", NHK WORLD
+http://45.126.83.51/uq2663/h/h23/index2.m3u8
+#EXTINF:-1, group-title="ASIAN TV", ARIRANG
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1, group-title="ASIAN TV", BLOOMBERG ASIA
+http://45.126.83.51/uq2663/h/h03/index2.m3u8
+#EXTINF:-1, group-title="ASIAN TV", FIGHT SPORT
+http://45.126.83.51/uq2663/h/h05/index2.m3u8
+#EXTINF:-1, group-title="ASIAN TV", MUTV
+https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
+#EXTINF:-1,group-title="WORLD TV",ESPN
+https://bit.ly/2Wwy3SS
+#EXTINF:-1,group-title="WORLD TV",NBA TV
+https://bit.ly/2Sp6XxV
+#EXTINF:-1,group-title="WORLD TV",NBC SPORTS NETWORK
+https://bit.ly/2WAkFgC
+#EXTINF:-1,group-title="WORLD TV",FOX SPORTS 1
+https://bit.ly/2DS8BjE
+#EXTINF:-1,group-title="WORLD TV",FOX SPORTS 2
+https://bit.ly/2G8cDGP
+#EXTINF:-1,group-title="WORLD TV",BEINSPORTS USA
+https://bit.ly/2Bfy04Y
+#EXTINF:-1,group-title="WORLD TV",NBC GOLF
+https://bit.ly/2RBa9BS
+#EXTINF:-1,group-title="WORLD TV",TENNIS CHANNEL
+https://bit.ly/2HOFba7
+#EXTINF:-1,group-title="WORLD TV",UFC FIGHTPASS
+https://bit.ly/2S3zbip
+#EXTINF:-1,group-title="WORLD TV",WWE NETWORK
+https://bit.ly/2DSRChb
+#EXTINF:-1,group-title="WORLD TV",SKY SPORTS MAIN EVENT
+https://bit.ly/2MMjRkm
+#EXTINF:-1,group-title="WORLD TV",SKY SPORTS PREM LEAGUE
+https://bit.ly/2RB4UlO
+#EXTINF:-1,group-title="WORLD TV",SKY SPORTS FOOTBALL
+https://bit.ly/2G6SS2v
+#EXTINF:-1,group-title="WORLD TV",SKY SPORTS USA/ACTION
+https://bit.ly/2S6dvSQ
+#EXTINF:-1,group-title="WORLD TV",SKY SPORTS ARENA
+https://bit.ly/2Rzu6sX
+#EXTINF:-1,group-title="WORLD TV",SKY SPORTS CRICKET
+https://bit.ly/2D9ZVTR
+#EXTINF:-1,group-title="WORLD TV",SKY SPORTS F1
+https://bit.ly/2DTtfQf
+#EXTINF:-1,group-title="WORLD TV",SKY SPORTS GOLF
+https://bit.ly/2WGzMVJ
+#EXTINF:-1,group-title="WORLD TV",SKY SPORTS MIX
+https://bit.ly/2S4e5jK
+#EXTINF:-1,group-title="WORLD TV",SKY SPORTS NEWS
+https://bit.ly/2GctxnV
+#EXTINF:-1,group-title="WORLD TV",BT SPORTS 1
+https://bit.ly/2D31Idy
+#EXTINF:-1,group-title="WORLD TV",BT SPORTS 2
+https://bit.ly/2DQGq4n
+#EXTINF:-1,group-title="WORLD TV",BT SPORTS 3
+https://bit.ly/2HQT7jL
+#EXTINF:-1,group-title="WORLD TV",TSN 1
+https://bit.ly/2MSj6X1
+#EXTINF:-1,group-title="WORLD TV",TSN 2
+https://bit.ly/2TFAxws
+#EXTINF:-1,group-title="WORLD TV",TSN 3
+https://bit.ly/2RJuaXe
+#EXTINF:-1,group-title="WORLD TV",TSN 4
+https://bit.ly/2Gu6pQY
+#EXTINF:-1,group-title="WORLD TV",TSN 5
+https://bit.ly/2WPdUYr
+#EXTINF:-1,group-title="WORLD TV",ABC
+https://bit.ly/2TrbPzK
+#EXTINF:-1,group-title="WORLD TV",CBS
+https://bit.ly/2DQoUxg
+#EXTINF:-1,group-title="WORLD TV",FOX
+https://bit.ly/2D2nUEC
+#EXTINF:-1,group-title="WORLD TV",NBC
+https://bit.ly/2Bi2yTs
+#EXTINF:-1,group-title="WORLD TV",TNT
+https://bit.ly/2DQoXsN
+#EXTINF:-1,group-title="WORLD TV",A&E 
+https://bit.ly/2DPIZ6F
+#EXTINF:-1,group-title="WORLD TV",AMC
+https://bit.ly/2HLv1Xt
+#EXTINF:-1,group-title="WORLD TV",BBC AMERICA 
+https://bit.ly/2DQ0xj8
+#EXTINF:-1,group-title="WORLD TV",BRAVO
+https://bit.ly/2MLGOUM
+#EXTINF:-1,group-title="WORLD TV",CARTOON NETWORK
+https://bit.ly/2Gl696D
+#EXTINF:-1,group-title="WORLD TV",COMEDY CENTRAL
+https://bit.ly/2HNRDXn
+#EXTINF:-1,group-title="WORLD TV",CNN
+https://bit.ly/2G8feAz
+#EXTINF:-1,group-title="WORLD TV",CW
+https://bit.ly/2t1qIgu
+#EXTINF:-1,group-title="WORLD TV",DISNEY
+https://bit.ly/2WGAjXJ
+#EXTINF:-1,group-title="WORLD TV",DISNEY JR
+https://bit.ly/2GigsbA
+#EXTINF:-1,group-title="WORLD TV",E! ENTERTAINMENT
+https://bit.ly/2RAprqO
+#EXTINF:-1,group-title="WORLD TV",FOOD NETWORK
+https://bit.ly/2t4pj8Z
+#EXTINF:-1,group-title="WORLD TV",FX
+https://bit.ly/2WDmrha
+#EXTINF:-1,group-title="WORLD TV",GAME SHOW NETWORK
+https://bit.ly/2BdFaXd
+#EXTINF:-1,group-title="WORLD TV",NICK
+https://bit.ly/2HQg1rq
+#EXTINF:-1,group-title="WORLD TV",NICK JR
+https://bit.ly/2Tsvi31
+#EXTINF:-1,group-title="WORLD TV",TBS
+https://bit.ly/2t2FELm
+#EXTINF:-1,group-title="WORLD TV",TLC
+https://bit.ly/2UxTnpa
+#EXTINF:-1,group-title="WORLD TV",USA NETWORK
+https://bit.ly/2t4lpwR
+#EXTINF:-1,group-title="WORLD TV",CINEMAX
+https://bit.ly/2DfOnij
+#EXTINF:-1,group-title="WORLD TV",CINEMAX ACTION
+https://bit.ly/2t2jbOB
+#EXTINF:-1,group-title="WORLD TV",EPIX
+https://bit.ly/2G4y63i
+#EXTINF:-1,group-title="WORLD TV",HBO
+https://bit.ly/2Rybg5n
+#EXTINF:-1,group-title="WORLD TV",HBO COMEDY
+https://bit.ly/2RBaSDe
+#EXTINF:-1,group-title="WORLD TV",HBO FAMILY
+https://bit.ly/2Bk28w3
+#EXTINF:-1,group-title="WORLD TV",HBO ZONE
+https://bit.ly/2Bhhz8e
+#EXTINF:-1, group-title="PINOY TV", SHOP TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/chunklist_w743726554.m3u8
+#EXTINF:-1, group-title="PINOY TV", LIFE TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/chunklist_w1653262029.m3u8
+#EXTINF:-1, group-title="PINOY TV", POP LIFE
+https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w1932655832.m3u8
+#EXTINF:-1, group-title="PINOY TV", PILIPINAS HD
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/chunklist_w1001324973.m3u8
+#EXTINF:-1, group-title="PINOY TV", INQUIRER TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/chunklist_w842017402.m3u8
+#EXTINF:-1, group-title="PINOY TV", UNTV
+https://untv.mmdlive.lldns.net/untv/71b244db6e8f4c93a68737f025340f8f/chunklist_b2592000.m3u8?720
+#EXTINF:-1, group-title="PINOY TV", CNN PHILIPPINES
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+#EXTINF:-1, group-title="PINOY TV", AKSYON TV
+http://stream1.news5.ph:1935/n5e/aksyon/chunklist_w1575736103.m3u8
+#EXTINF:-1, group-title="PINOY TV", TV5/ESPN 5
+http://stream1.news5.ph:1935/n5e/tv5/chunklist_w1525346704.m3u8
+#EXTINF:-1, group-title="PINOY TV", ABS CBN
+https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_800_av-p.m3u8?sd=10&rebase=on&id=AgB4HXCa0gVmP+EbtVxi3Wa+UHE+g1CFcKd4cH3V1n9Y0FRKBKQULloIZYCANxRWLr3%2f6GOWUeAe6w%3d%3d&hdntl=exp=1555459425~acl=%2f*~data=hdntl~hmac=e2fe53797428196f834bc6ea28fe897407cf1c8779e92c2063c0a1da128f465e
