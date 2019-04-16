@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1, group-title="NBA PLAYOFFS", Magic@Raptors
+https://bit.ly/2HQB3W4
+#EXTINF:-1, group-title="NBA PLAYOFFS", Spurs@Nuggets
+https://bit.ly/2U9ccnc
+#EXTINF:-1, group-title="NBA PLAYOFFS", Thunder@Blazers
+https://bit.ly/2HQB3W4
 #EXTINF:-1, group-title="ASIAN TV", ANIPLUS
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1, group-title="ASIAN TV", ANIMAX
